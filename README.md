@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Python, Nodejs**
+- 🌱 I’m currently learning **Python, Machine Learining**
 
 - 📫 How to reach me **ritik.gpm19@gmail.com**
 
