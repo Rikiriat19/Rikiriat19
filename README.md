@@ -1,6 +1,6 @@
 
-<h1 align="center">Hola 👋, I'm Ritik Sharma</h1>
-<h3 align="center">A learner</h3>
+<h1 align="center">Hola 👋, <br> I'm Ritik Sharma</h1>
+<h3 align="center">Data Science Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikiriat19&label=Profile%20views&color=0e75b6&style=flat" alt="rikiriat19" /> </p>
 
