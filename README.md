@@ -23,10 +23,7 @@
 
 
 
-
-[![](https://visitcount.itsvg.in/api?id=Rikiriat19&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Rikiriat19&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rikiriat19&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
