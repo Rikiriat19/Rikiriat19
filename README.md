@@ -21,6 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rikiriat19&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Rikiriat19&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Rikiriat19&icon=0&color=9)](https://visitcount.itsvg.in)
 
